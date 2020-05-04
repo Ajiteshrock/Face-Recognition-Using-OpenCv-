@@ -1,17 +1,9 @@
-
-# coding: utf-8
-
 # Face Recognition with OpenCV
 
-# To detect faces, I will use the code from my previous article on [face detection](https://www.superdatascience.com/opencv-face-detection/). So if you have not read it, I encourage you to do so to understand how face detection works and its Python coding. 
 
 # ### Import Required Modules
 
-# Before starting the actual coding we need to import the required modules for coding. So let's import them first. 
-# 
-# - **cv2:** is _OpenCV_ module for Python which we will use for face detection and face recognition.
-# - **os:** We will use this Python module to read our training directories and file names.
-# - **numpy:** We will use this module to convert Python lists to numpy arrays as OpenCV face recognizers accept numpy arrays.
+
 
 # In[1]:
 
